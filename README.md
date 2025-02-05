@@ -48,13 +48,14 @@ _550,153 human-annotated sentence pairs_
 | **Semantic Distance**      | Word2Vec Cosine Similarity | 0.61          |
 
 ## 📂 Repository Structure
+```
 ├── data/
 ├── analysis/notebooks/
 │   ├── lexical_analysis/   # Overlap metrics
 │   ├── semantic_analysis/ # Word embeddings
 │   └── statistical_tests/ # Hypothesis testing
 └── report/Recognizing Textual Entailment in SNLI dataset-report.pdf              # Final project PDF
-
+```
 ## 📚 References
 - SNLI Original Paper: Bowman et al. (2015)
 - Linguistic Theory of Entailment: Dagan et al. (2006)
