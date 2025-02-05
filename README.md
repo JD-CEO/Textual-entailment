@@ -2,6 +2,8 @@
 
 [[Dataset](https://nlp.stanford.edu/projects/snli/)] 
 [[Report](https://github.com/JD-CEO/Textual-entailment/blob/main/Recognizing%20Textual%20Entailment%20in%20SNLI%20dataset-report.pdf)]
+
+
 **Course Project | Data Science Course | Shahid Beheshti University | 2023-2024**
 
 ## 🎯 Project Goal
