@@ -2,7 +2,6 @@
 
 [[Dataset](https://nlp.stanford.edu/projects/snli/)] 
 [[Paper](report.pdf)] 
-[[License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 **Course Project | Data Science Course | Shahid Beheshti University | 2023-2024**
 
