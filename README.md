@@ -1,7 +1,6 @@
 # Textual Entailment Analysis with SNLI Dataset
 
 [[Dataset](https://nlp.stanford.edu/projects/snli/)] 
-[[Paper](Recognizing Textual Entailment in SNLI dataset-report.pdf)] 
 
 **Course Project | Data Science Course | Shahid Beheshti University | 2023-2024**
 
